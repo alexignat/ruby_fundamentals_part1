@@ -12,7 +12,8 @@ for i in (1..100)
 		puts "Bit"
 	elsif i % 5 == 0
 		puts "Maker"
-	else puts i
+	else 
+		puts i
 	end	
 end
 
